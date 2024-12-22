@@ -16,3 +16,9 @@ The following dependencies are used in this project:
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil): Library for screen size adaptation
 - [pretty_dio_logger](https://pub.dev/packages/pretty_dio_logger): for logging HTTP requests
 - [keletonizer](https://pub.dev/packages/skeletonizer): for skeleton loading animations
+
+## Video
+
+
+https://github.com/user-attachments/assets/fc054cc3-3335-475b-a1e7-83ec084de6a5
+
